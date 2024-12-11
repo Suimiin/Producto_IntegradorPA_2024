@@ -1,0 +1,51 @@
+<inventario>
+  <producto>
+    <ID>BEB-001</ID>
+    <Nombre>Coca</Nombre>
+    <Grado de Relvancia>5</Grado de Relvancia>
+    <Cantidad>154</Cantidad>
+    <Última Importación>2024-12-10</Última Importación>
+  </producto>
+  <producto>
+    <ID>BEB-002</ID>
+    <Nombre>jugo</Nombre>
+    <Grado de Relvancia>5</Grado de Relvancia>
+    <Cantidad>60</Cantidad>
+    <Última Importación>2024-12-10</Última Importación>
+  </producto>
+  <producto>
+    <ID>BEB-003</ID>
+    <Nombre>Gepardex</Nombre>
+    <Grado de Relvancia>2</Grado de Relvancia>
+    <Cantidad>50</Cantidad>
+    <Última Importación>2024-12-10</Última Importación>
+  </producto>
+  <producto>
+    <ID>CAR-001</ID>
+    <Nombre>pollo</Nombre>
+    <Grado de Relvancia>4</Grado de Relvancia>
+    <Cantidad>20</Cantidad>
+    <Última Importación>2024-12-10</Última Importación>
+  </producto>
+  <producto>
+    <ID>CAR-002</ID>
+    <Nombre>chocolate</Nombre>
+    <Grado de Relvancia>8</Grado de Relvancia>
+    <Cantidad>100</Cantidad>
+    <Última Importación>2024-12-10</Última Importación>
+  </producto>
+  <producto>
+    <ID>FRU-002</ID>
+    <Nombre>Peras</Nombre>
+    <Grado de Relvancia>4</Grado de Relvancia>
+    <Cantidad>20</Cantidad>
+    <Última Importación>2024-12-10</Última Importación>
+  </producto>
+  <producto>
+    <ID>LAC-001</ID>
+    <Nombre>Leche</Nombre>
+    <Grado de Relvancia>4</Grado de Relvancia>
+    <Cantidad>10</Cantidad>
+    <Última Importación>2024-12-10</Última Importación>
+  </producto>
+</inventario>

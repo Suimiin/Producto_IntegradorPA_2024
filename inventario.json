@@ -1,0 +1,51 @@
+[
+  {
+    "ID": "BEB-001",
+    "Nombre": "Coca",
+    "Grado de Relvancia": "5",
+    "Cantidad": "154",
+    "Última Importación": "2024-12-10"
+  },
+  {
+    "ID": "BEB-002",
+    "Nombre": "jugo",
+    "Grado de Relvancia": "5",
+    "Cantidad": "60",
+    "Última Importación": "2024-12-10"
+  },
+  {
+    "ID": "BEB-003",
+    "Nombre": "Gepardex",
+    "Grado de Relvancia": "2",
+    "Cantidad": "50",
+    "Última Importación": "2024-12-10"
+  },
+  {
+    "ID": "CAR-001",
+    "Nombre": "pollo",
+    "Grado de Relvancia": "4",
+    "Cantidad": "20",
+    "Última Importación": "2024-12-10"
+  },
+  {
+    "ID": "CAR-002",
+    "Nombre": "chocolate",
+    "Grado de Relvancia": "8",
+    "Cantidad": "100",
+    "Última Importación": "2024-12-10"
+  },
+  {
+    "ID": "FRU-002",
+    "Nombre": "Peras",
+    "Grado de Relvancia": "4",
+    "Cantidad": "20",
+    "Última Importación": "2024-12-10"
+  },
+  {
+    "ID": "LAC-001",
+    "Nombre": "Leche",
+    "Grado de Relvancia": "4",
+    "Cantidad": "10",
+    "Última Importación": "2024-12-10"
+  }
+]

@@ -1,0 +1,9 @@
+<inventario>
+  <producto>
+    <ID Compra>Compra_241210</ID Compra>
+    <Producto>Coca</Producto>
+    <Fecha>2024-12-10</Fecha>
+    <Proveedor>coca cola</Proveedor>
+    <Cantidad>50</Cantidad>
+  </producto>
+</inventario>
